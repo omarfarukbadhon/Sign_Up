@@ -1,0 +1,39 @@
+.first,
+.second{
+    display: inline-block;
+    font-size: 18px;
+    width: 120px;
+    padding: 10px 20px 10px 15px;
+    border-radius: 10px;
+    border-width: 1px;
+    margin-bottom: 15px;
+    border-style: solid;
+    border-color: gray;
+}
+
+.first{
+    margin-left: 10px;
+}
+
+.email,
+.signup{
+    display: block;
+    margin-left: 10px;
+    font-size: 18px;
+    padding: 10px 20px 10px 15px;
+    width: 280px;
+    border-radius: 10px;
+    border-width: 1px;
+    margin-bottom: 15px;
+    border-style: solid;
+    border-color: gray;
+}
+
+.signup{
+    width: 315px;
+    background-color: rgb(43, 104, 218);
+    color: white;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+}
